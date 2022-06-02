@@ -40,7 +40,7 @@
 #include <utils/List.h>
 
 //Media depedancies
-#include "OMX_QCOMExtns.h"
+#include "../../../media/mm-core/inc/OMX_QCOMExtns.h"
 
 // Display dependencies
 #include "qdMetaData.h"
